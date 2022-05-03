@@ -22,7 +22,11 @@ See requirements.txt for a list of required packagaes
 ## Usage
 Enter your address when prompted, after building
 ```bash
+<<<<<<< HEAD
 pip3 install -r requirements.txt
+=======
+pip install -r requirements.txt
+>>>>>>> e5b85f1e9194d430edc086f2818f4ae8288cbaad
 python3 setup.py
 ```
 setup.py will call the tracker file's main with hot and cold wallet addresses from the .env file
