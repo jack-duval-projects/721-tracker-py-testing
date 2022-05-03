@@ -20,7 +20,6 @@ See requirements.txt for a list of required packagaes
 
 
 ## Usage
-Enter your address when prompted, after building
 ```bash
 pip3 install -r requirements.txt
 python3 setup.py
