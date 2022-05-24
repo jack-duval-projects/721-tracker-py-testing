@@ -6,7 +6,7 @@ A 'proof-of-concept' repository, written in Python for the 721-tracker widget
 
 To be determined as development continues. 
 
-Need access to OpenSea API, LooksRare API, Etherscan API with keys in a .env file
+Need access to OpenSea API, LooksRare API (future), Etherscan API with keys in a .env file
 
 The following fields need to be set in your .env file:
 ```bash
